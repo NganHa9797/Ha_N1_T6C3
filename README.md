@@ -4,7 +4,10 @@
 ---
 
 ## 🧑‍💻 **Giới thiệu bản thân**
-Xin chào! Mình là **Ngân Hà**, hiện đang là sinh viên theo học ngành **Công nghệ thông tin** tại **Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)**. Mình có định hướng phát triển về **thiết kế giao diện** và có niềm đam mê lớn đối với **sáng tạo** trong lĩnh vực này.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/vi/a/a6/Huflit_Logo.png" alt="HUFLIT Logo" width="100">
+</p>
+Xin chào! Mình là **Ngân Hà**, hiện đang theo học ngành **Công nghệ thông tin** tại **Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)**. Mình có định hướng phát triển về **thiết kế giao diện** và có niềm đam mê lớn đối với **sáng tạo** trong lĩnh vực này.
 
 ---
 
@@ -34,6 +37,8 @@ Mình hiện tại là **Product Owner** trong nhóm phát triển với 5 thàn
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
 ### **Công cụ phát triển:**
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio)
@@ -60,5 +65,3 @@ Mình hiện tại là **Product Owner** trong nhóm phát triển với 5 thàn
 <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt="LinkedIn"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" alt="Twitter"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram" alt="Instagram"></a>
-
-

@@ -34,7 +34,6 @@ Hiện tại nhóm của mình có **5 thành viên**:
 - **Công cụ phát triển:**
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio)
   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
-  ![Android Studio](https://img.shields.io/badge/-Android_Studio-333333? style=flat&logo=android-studio)
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)

@@ -4,9 +4,6 @@
 ---
 
 ## 🧑‍💻 **Giới thiệu bản thân**
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/vi/a/a6/Huflit_Logo.png" alt="HUFLIT Logo" width="100">
-</p>
 Xin chào! Mình là **Ngân Hà**, hiện đang theo học ngành **Công nghệ thông tin** tại **Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)**. Mình có định hướng phát triển về **thiết kế giao diện** và có niềm đam mê lớn đối với **sáng tạo** trong lĩnh vực này.
 
 ---

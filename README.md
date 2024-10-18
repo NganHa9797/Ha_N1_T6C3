@@ -4,7 +4,7 @@
 ---
 
 ## 🧑‍💻 **Giới thiệu bản thân**
-Xin chào! Mình là **Ngân Hà**, hiện đang theo học **Công nghệ thông tin**. Mình đặc biệt đam mê về **thiết kế giao diện** và luôn yêu thích sự **sáng tạo** trong công việc thiết kế.
+Xin chào! Mình là **Ngân Hà**, hiện đang là sinh viên năm [3] theo học ngành **Công nghệ thông tin** tại **Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)**. Mình có định hướng phát triển về **thiết kế giao diện** và có niềm đam mê lớn đối với **sáng tạo** trong lĩnh vực này.
 
 ---
 

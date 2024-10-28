@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 <em>Hello! I’m <strong>Ngân Hà</strong> </em> </h1>
+<h1 align="center"> 👋 <em>Hi! I’m <strong>Ngân Hà</strong> </em> </h1>
 <h2 align="center"> 🌟 <em>Welcome to my GitHub profile!</em> 🌟 </h2>
 
 ---

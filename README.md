@@ -1,30 +1,49 @@
-<h1 align="center"> 👋 <em>Xin chào! Mình là Ngân Hà</em> </h1>
-<h2 align="center"> 🌟 <em>Welcome to my GitHub profile!</em> </h2>
+<h1 align="center" style="color: #FF69B4;"> 👋 <em>Xin chào! Mình là <strong>Ngân Hà</strong> </em> </h1>
+<h2 align="center" style="color: #FFD700;"> 🌟 <em>Welcome to my GitHub profile!</em> 🌟 </h2>
 
 ---
 
-## 🧑‍💻 **Giới thiệu bản thân**
-Xin chào! Mình là **Ngân Hà**, hiện đang theo học ngành **Công nghệ thông tin** tại **Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)**. Mình có định hướng phát triển về **thiết kế giao diện** và có niềm đam mê lớn đối với **sáng tạo** trong lĩnh vực này.
+## 🎯🧑‍💻 **Giới thiệu bản thân**
+- **Tên đầy đủ**: Hoàng Ngân Hà
+- **Ngày sinh**: 4/11/2004
+- **Địa chỉ**: TP. Hồ Chí Minh, Việt Nam 🇻🇳
+- **Trường học**: Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)
+- **Chuyên ngành**: Công nghệ thông tin 🖥️
+- **Ngôn ngữ**: Tiếng Việt, Tiếng Anh (giao tiếp) 🌐
+
+---
+
+## 🎨 **Sở thích cá nhân**
+- 🎨 **Thiết kế và sáng tạo**: Mình yêu thích việc sử dụng công nghệ để biến ý tưởng thành hiện thực, nhất là trong mảng thiết kế giao diện.
+- 🔍 **Nghiên cứu và phát triển**: Đam mê tìm hiểu các xu hướng công nghệ mới và ứng dụng vào công việc.
+- 📚 **Đọc sách**: Đọc về tâm lý học, thiết kế và phát triển kỹ năng mềm.
+- ✈️ **Du lịch**: Yêu thích khám phá những địa điểm mới để tìm cảm hứng sáng tạo.
+
+---
+
+## 🚀 **Mục tiêu nghề nghiệp**
+🎯 Mục tiêu của mình là trở thành một **UI/UX Designer** chuyên nghiệp, có khả năng thiết kế giao diện đẹp mắt và thân thiện với người dùng. Mình mong muốn học thêm các kỹ năng về lập trình và phát triển ứng dụng để hiểu sâu hơn về quá trình xây dựng sản phẩm. 
+
+🌍 **Dài hạn**, mình hy vọng có thể trở thành **Product Designer**, dẫn dắt các dự án sáng tạo và cải tiến trải nghiệm người dùng.
 
 ---
 
 ## 👨‍👩‍👧‍👦 **Nhóm của mình**
-Mình hiện tại là **Product Owner** trong nhóm phát triển với 5 thành viên:
-- **Scrum Master**: Khôi
-- **Leader**: Phi
-- **Developer**: Văn Anh, Quý
-- **Product Owner**: Ngân Hà (Mình)
+🧑‍💻 Hiện tại mình là **Product Owner** trong nhóm phát triển với 5 thành viên:
+- **Scrum Master**: Khôi 🧑‍🔬
+- **Leader**: Phi 👨‍💼
+- **Developer**: Văn Anh 💻, Quý 💻
+- **Product Owner**: Ngân Hà (Mình) 🌟
 
 ---
 
 ## 🚀 **Những dự án đã và đang thực hiện**
-- **Website đặt bàn nhà hàng**: Hỗ trợ người dùng đặt bàn tại các nhà hàng một cách dễ dàng.
-- **Website VOVBacsi24**: Dự án hỗ trợ dịch vụ bác sĩ trực tuyến 24/7 cho người dân.
-- **Website quản lý quán trà sữa**: Quản lý hoạt động kinh doanh và đặt hàng của quán.
-- **Ứng dụng bán quần áo**: Giải pháp di động giúp người dùng mua sắm quần áo trực tuyến.
-- **Website quản lý cửa hàng thuốc**: Quản lý thông tin sản phẩm và bán hàng tại cửa hàng thuốc.
-- **Lập trình ChessGame**: Một trò chơi cờ vua với các tính năng giải trí và học hỏi.
-
+- 🍽️ **Website đặt bàn nhà hàng**: Hỗ trợ người dùng đặt bàn tại các nhà hàng một cách dễ dàng.
+- 👨‍⚕️ **Website VOVBacsi24**: Dịch vụ bác sĩ trực tuyến 24/7 cho người dân.
+- 🍵 **Website quản lý quán trà sữa**: Quản lý kinh doanh và đặt hàng của quán.
+- 👚 **Ứng dụng bán quần áo**: Giải pháp di động giúp mua sắm quần áo trực tuyến.
+- 💊 **Website quản lý cửa hàng thuốc**: Quản lý thông tin sản phẩm và bán hàng tại cửa hàng thuốc.
+- ♟️ **Lập trình ChessGame**: Một trò chơi cờ vua với các tính năng giải trí và học hỏi.
 
 ---
 
@@ -58,8 +77,11 @@ Mình hiện tại là **Product Owner** trong nhóm phát triển với 5 thàn
 
 ---
 
-## 📫 **Liên hệ với mình**
-<a href="mailto:hahoang041104@gmail.com"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt="LinkedIn"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" alt="Twitter"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram" alt="Instagram"></a>
+## 📫 **Liên hệ**
+<a href="mailto:hahoang041104@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.instagram.com/_hngannha"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/nganha0411" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+---
+
+🌟 **Cảm ơn bạn đã ghé thăm trang cá nhân của mình!** 🌟

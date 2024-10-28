@@ -1,54 +1,54 @@
-<h1 align="center" style="color: #FF69B4;"> 👋 <em>Xin chào! Mình là <strong>Ngân Hà</strong> </em> </h1>
-<h2 align="center" style="color: #FFD700;"> 🌟 <em>Welcome to my GitHub profile!</em> 🌟 </h2>
+<h1 align="center"> 👋 <em>Hello! I’m <strong>Ngân Hà</strong> </em> </h1>
+<h2 align="center"> 🌟 <em>Welcome to my GitHub profile!</em> 🌟 </h2>
 
 ---
 
-## 🎯🧑‍💻 **Giới thiệu bản thân**
-- **Tên đầy đủ**: Hoàng Ngân Hà
-- **Ngày sinh**: 4/11/2004
-- **Địa chỉ**: TP. Hồ Chí Minh, Việt Nam 🇻🇳
-- **Trường học**: Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)
-- **Chuyên ngành**: Công nghệ thông tin 🖥️
-- **Ngôn ngữ**: Tiếng Việt, Tiếng Anh (giao tiếp) 🌐
+## 🎯🧑‍💻 **About Me**
+- **Full Name**: Hoàng Ngân Hà
+- **Date of Birth**: November 4, 2004
+- **Location**: Ho Chi Minh City, Vietnam 🇻🇳
+- **University**: Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)
+- **Major**: Information Technology 🖥️
+- **Languages**: Vietnamese, English (conversational) 🌐
 
 ---
 
-## 🎨 **Sở thích cá nhân**
-- 🎨 **Thiết kế và sáng tạo**: Mình yêu thích việc sử dụng công nghệ để biến ý tưởng thành hiện thực, nhất là trong mảng thiết kế giao diện.
-- 🔍 **Nghiên cứu và phát triển**: Đam mê tìm hiểu các xu hướng công nghệ mới và ứng dụng vào công việc.
-- 📚 **Đọc sách**: Đọc về tâm lý học, thiết kế và phát triển kỹ năng mềm.
-- ✈️ **Du lịch**: Yêu thích khám phá những địa điểm mới để tìm cảm hứng sáng tạo.
+## 🎨 **Personal Interests**
+- 🎨 **Design and Creativity**: I love using technology to bring ideas to life, especially in interface design.
+- 🔍 **Research and Development**: I’m passionate about exploring new tech trends and applying them to work.
+- 📚 **Reading**: Interested in psychology, design, and soft skills development.
+- ✈️ **Travel**: Enjoy discovering new places to spark creativity.
 
 ---
 
-## 🚀 **Mục tiêu nghề nghiệp**
-🎯 Mục tiêu của mình là trở thành một **UI/UX Designer** chuyên nghiệp, có khả năng thiết kế giao diện đẹp mắt và thân thiện với người dùng. Mình mong muốn học thêm các kỹ năng về lập trình và phát triển ứng dụng để hiểu sâu hơn về quá trình xây dựng sản phẩm. 
+## 🚀 **Career Goals**
+🎯 My goal is to become a professional **UI/UX Designer** with the ability to create visually appealing and user-friendly interfaces. I aim to develop additional programming and application development skills to deepen my understanding of product building.
 
-🌍 **Dài hạn**, mình hy vọng có thể trở thành **Product Designer**, dẫn dắt các dự án sáng tạo và cải tiến trải nghiệm người dùng.
+🌍 **In the long term**, I hope to grow into a **Product Designer**, leading creative projects and enhancing user experiences.
 
 ---
 
-## 👨‍👩‍👧‍👦 **Nhóm của mình**
-🧑‍💻 Hiện tại mình là **Product Owner** trong nhóm phát triển với 5 thành viên:
+## 👨‍👩‍👧‍👦 **My Team**
+🧑‍💻 Currently, I’m a **Product Owner** on a development team of 5 members:
 - **Scrum Master**: Khôi 🧑‍🔬
 - **Leader**: Phi 👨‍💼
-- **Developer**: Văn Anh 💻, Quý 💻
-- **Product Owner**: Ngân Hà (Mình) 🌟
+- **Developers**: Văn Anh 💻, Quý 💻
+- **Product Owner**: Ngân Hà (me) 🌟
 
 ---
 
-## 🚀 **Những dự án đã và đang thực hiện**
-- 🍽️ **Website đặt bàn nhà hàng**: Hỗ trợ người dùng đặt bàn tại các nhà hàng một cách dễ dàng.
-- 👨‍⚕️ **Website VOVBacsi24**: Dịch vụ bác sĩ trực tuyến 24/7 cho người dân.
-- 🍵 **Website quản lý quán trà sữa**: Quản lý kinh doanh và đặt hàng của quán.
-- 👚 **Ứng dụng bán quần áo**: Giải pháp di động giúp mua sắm quần áo trực tuyến.
-- 💊 **Website quản lý cửa hàng thuốc**: Quản lý thông tin sản phẩm và bán hàng tại cửa hàng thuốc.
-- ♟️ **Lập trình ChessGame**: Một trò chơi cờ vua với các tính năng giải trí và học hỏi.
+## 🚀 **Projects I’ve Worked On**
+- 🍽️ **Restaurant Reservation Website**: Helps users easily book tables at restaurants.
+- 👨‍⚕️ **VOVBacsi24 Website**: Online doctor service available 24/7.
+- 🍵 **Bubble Tea Shop Management Website**: Manages shop operations and customer orders.
+- 👚 **Clothing Store App**: A mobile solution for online shopping.
+- 💊 **Pharmacy Management Website**: Manages product information and sales at pharmacies.
+- ♟️ **Chess Game Development**: A chess game with both entertaining and educational features.
 
 ---
 
-## 🔧 **Kỹ năng & Công cụ**
-### **Ngôn ngữ lập trình:**
+## 🔧 **Skills & Tools**
+### **Programming Languages:**
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
@@ -57,14 +57,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
-### **Công cụ phát triển:**
+### **Development Tools:**
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
-### **Thiết kế giao diện:**
+### **Interface Design:**
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
@@ -77,11 +77,10 @@
 
 ---
 
-## 📫 **Liên hệ**
+## 📫 **Contact Me**
 <a href="mailto:hahoang041104@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.instagram.com/_hngannha"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/nganha0411" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
-🌟 **Cảm ơn bạn đã ghé thăm trang cá nhân của mình!** 🌟
+🌟 **Thank you for visiting my profile!** 🌟

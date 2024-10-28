@@ -59,7 +59,7 @@ Mình hiện tại là **Product Owner** trong nhóm phát triển với 5 thàn
 ---
 
 ## 📫 **Liên hệ với mình**
-<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
+<a href="mailto:hahoang041104@gmail.com"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
 <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt="LinkedIn"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" alt="Twitter"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram" alt="Instagram"></a>

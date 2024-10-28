@@ -17,13 +17,14 @@ Mình hiện tại là **Product Owner** trong nhóm phát triển với 5 thàn
 
 ---
 
-## 🚀 **Dự án hiện tại của mình**
+## 🚀 **Những dự án đã và đang thực hiện**
 - **Website đặt bàn nhà hàng**: Hỗ trợ người dùng đặt bàn tại các nhà hàng một cách dễ dàng.
 - **Website VOVBacsi24**: Dự án hỗ trợ dịch vụ bác sĩ trực tuyến 24/7 cho người dân.
-- **Ứng dụng bán quần áo**: Giải pháp di động giúp người dùng mua sắm quần áo trực tuyến.
 - **Website quản lý quán trà sữa**: Quản lý hoạt động kinh doanh và đặt hàng của quán.
+- **Ứng dụng bán quần áo**: Giải pháp di động giúp người dùng mua sắm quần áo trực tuyến.
 - **Website quản lý cửa hàng thuốc**: Quản lý thông tin sản phẩm và bán hàng tại cửa hàng thuốc.
 - **Lập trình ChessGame**: Một trò chơi cờ vua với các tính năng giải trí và học hỏi.
+
 
 ---
 
@@ -58,7 +59,7 @@ Mình hiện tại là **Product Owner** trong nhóm phát triển với 5 thàn
 ---
 
 ## 📫 **Liên hệ với mình**
-<a href="#"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
 <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin" alt="LinkedIn"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" alt="Twitter"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram" alt="Instagram"></a>
